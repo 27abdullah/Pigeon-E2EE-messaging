@@ -1,3 +1,7 @@
+NOTE: This is a copy of the original repo which is private. This code was developed by a team of 6 - Kaitlyn, Krisna, Anshul, Abdullah, Kush, Sanchit.
+
+I worked on the server (python, AWS, terraform) and testing (unit tests, github actions, load).
+
 # P02-Pigeon
 
 ## Overview
